@@ -1,4 +1,4 @@
-Arachnoids: Spinnerets
+Arachnoids
 
 Armed and Dangerous: Arachnoids have another set of arms, reducing the t of dual-wielding checks by 2 if they stay with two weapons, or can hold up to four at normal dual-wielding penalties.
 
