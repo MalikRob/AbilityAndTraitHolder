@@ -98,7 +98,7 @@ Consummate Trickster: Helborn, unlike their much more direct cousins, have a gre
 
 Only Mostly Dead: Helborn can ignore Injuries or Incapacitation for one round for every Tier of Charisma they possess, consecutively or in single-round chunks. This may be done even if the Helborn is completely unconscious as per the will of the player.
 
-Roguish Charm: Helborn have High Mortal Agility and Charisma. Additionally, any mono-stat skill using only one of those stat automatically becomes multi-stat and involves the other.
+Roguish Charm: Helborn have High Mortal Agility and Charisma. Additionally, any mono-stat skill using only one of those stat automatically becomes multi-stat and involves the other. Helborn may also use Agility in place of Charisma, and vice versa, as a Reaction for any check.
 
 Cheat Fate: Helborn can, once in the life of their character, declare themselves to just succeed on any single check. This can only be restored by a significant accomplishment analogous to what would cause an Awakening, or by going through a wild enough experience that Loki and Hel personally take notice of the Helborn in question.
 #Humans
@@ -164,7 +164,7 @@ Sheathed Claws: Mahntrals possess clawed nails that typically stay somewhat retr
 
 Shared Braincell: Mahntral are…not the sharpest tool in the shed, and more so when they gather in large groups, though this does bolster their confidence. They have an inherent -1t to Serenity  checks and +1t to Knowledge based Intellect checks per additional, friendly nearby Lion to a Max of 5 for a total of +/- 6t.
 #Menehune
-Tiny Geniuses: Menehunes are a race of incredibly smart dwarves with frog-like features, they have High Mortal Intellect and double the normal amount of Crafting/Research actions that their Intellect stat would usually grant. They are, additionally, a baseline of Novice in all mundane Crafting and Knowledge skills within a setting's tech level.
+Tiny Geniuses: Menehunes are a race of incredibly smart dwarves with frog-like features, they have High Uncanny Intellect (Low Supernatural cap) and double the normal amount of Crafting/Research actions that their Intellect stat would usually grant. They are, additionally, a baseline of Novice in all mundane Crafting and Knowledge skills within a setting's tech level.
 
 Tiny People In General, Really: Menehunes are considered size category Tiny and gain -1t per Tier of Agility they have to all checks that use Agility.
 #Minotaurs
