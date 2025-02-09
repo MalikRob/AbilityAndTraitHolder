@@ -25,7 +25,7 @@ Born Unlucky: The t of everyone else in this combat is increased by two, and the
 Narrative Senses: The user has this basic ability and a conditional +2 Levels in a single stat of their choice that is only active in specific situations. D-Rank
 Balanced: The user has this Basic Ability and their Primary Stats are the ones considered “power boosted”. D-Rank
 I'm Feeling Invincible: The user is considered one size larger than they actually are for the purposes of Durability. Additionally, they may gain Prot equal to [Levels in Health/2] as a reaction at the cost of +1t to Soak checks. D-Rank
-Elemental Prestidigitation: The user has this Basic Ability, +3 Levels in an Elementalist Conditional from the element table (Cantrip Cap) and it is considered a Primary Stat. D-Rank
+Elemental Prestidigitation: The user has this Basic Ability, High Mortal in an Elementalist Conditional from the element table (Uncanny Cap) and it is considered a Primary Stat. D-Rank
 Genesis Creation: The user has this basic ability for literal summons or minions. D-Rank
 Built Different: The user has this basic ability and +1 Level in Strength or Mass (Uncanny Cap). D-Rank
 I'm Pulling Myself Together: The user can, as an Action, roll Serenity[Health/Willpower] to recovery Soak-t at a 2 successes to 1 ratio. The successes required doubles per Severity above “Scratched” the damage/injury is. D-Rank
