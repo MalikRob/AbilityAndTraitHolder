@@ -20,21 +20,6 @@ This attack has MMD 16/16, Splash (10 feet per Level of Health) centered on the 
 This attack may be done Twice per Level of Mortal Health in a given Reset, doubling per Tier of Health past that.
 
 The user may also use a single target version without the daily limit with DV1 Middling Piercing, MMD 10/14, and a Range equal to the AoE version's Splash.
-#Baskers
-
-Little Big Turtle: Baskers can change from Miniscule to Huge in Size as a full-round action with no in-between at base. When at Huge they have a Mass of Low Heavy.
-
-They also have Lesser Physical Immunity, -5t to Soak checks, +2t to Dodge checks, and start at High Mortal Agility.
-
-Green Shell: Baskers have a shell with Strong Physical Resistance, Res of (Their Agility Tier), and Partial(+3). It also has +1 Prot per Level of Health past Vermin & +2 per size category above Miniscule they are.
-
-When broken it cannot be repaired and must be regenerated naturally at reset. They can retreat into their shells completely (turning Partial to Full) or leave it as an action, and restore their full Prot every day.
-
-If their shell Prot is not at 0 but would be reduced to 0 or less when shifting to a smaller size due to damage, it is instead set to 1.
-
-Look Ma, No Hands: Baskers do not possess hands, and cannot wield weapons. On the bright side, the DL of their unarmed attacks shifts according to size rules and their physiology gives them access to some cool stunts based around... being a turtle.
-
-Natural Alters: Baskers may purchase minor, D-Rank abilities related to changing size.
 #Chitterlings
 
 Rodents of Unusual Size: Chitterlings are a rather flighty and cowardly folk, their rodential ancestry shaping their minds and bodies.
@@ -67,17 +52,6 @@ Unliving Ideal: In place of the standard array, Einherjar have 3 Low, 2 Middle, 
 Fragmented Psyche: While not truly unstable, Legacy Einherjar often find it difficult to relate to those outside of their race or community. When interacting with any individual that is not an Einherjar or extremely familiar to the user, Einherjar have +5t to all Social checks.
 
 Second Chances: Einherjar can come back from destruction, once, so long as what killed them was less than Divine. Once this ability is used, it can only be regained through a significant martial accomplishment analogous to what would cause an Awakening if the user did not possess one.
-#Goblins/Chaos Incarnates
-
-Malleable Form: Chaos Incarnates, despite looking superficially like normal humanoids, have a body that isn't really made up of much more than spite. This means they do not get any extra t increases from limb called shot injuries and do not take Injuries from Physical attacks that deal Strong or lower type damage due to their amorphous nature, though in exchange they have permanent Lesser tier Durability that cannot be increased directly by most means. They are also Small in size.
-
-Natural Mages: Chaos Incarnates have Mana at High Cantrip and cannot raise it outside of the stat being unlocked via other means. (Power, contracts, etc etc)
-
-Elemental Solidity: Each Chaos Incarnate can, as an action, solidify into a form resembling one of the other Incarnates at the cost of their Malleable Form trait. While in this form, the Chaos Incarnate has Low Uncanny Mana.
-
-This form costs 5 Mana to maintain per round, increasing by 5 for every round after the first.
-
-While this trait is active PA Flares cannot be used.
 #Halflings
 
 Small & Flexible: Halflings are Small in size and can count as a size smaller for the sake of hiding or fitting into tight spaces, as they bend with strange flexibility.
@@ -147,16 +121,6 @@ Ripple and Converge:  Once per reset a Water Incarnate can heal two injury boxes
 Have High Mortal Strength and Agility.
 
 Split Second: With a focused surge of power, Lightning Incarnates may reroll any of their own checks as a reaction, which may be done a number of times per reset equal to the number of Tiers they have in Willpower.
-#Kobolds
-Fury Of The Small: Kobolds are Small in size but are very strong and agile for their size, granting High Mortal Agility and Strength. Additionally, their great determination to bring down superior opponents enables them to ignore size differences when Grappling, being grappled, or making attacks. This applies only to size categories within 2 Categories of the Kobold's own size.
-
-Ryu: Kobolds inherently possess Ki and the Body Essence at Slumbering, thought they cannot raise it higher, regain points of Ki besides waiting at Reset, or buy techniques for it (powers may break this limitation). Additionally, at CC a Kobold chooses 1 of 4 Elemental Alignments : Fire, Ice, Lightning, or Crystal.
-
-The Price Of Power: Depending on their element, each Kobold has a different malus: Fire has +2t to social checks due to a speech impediment caused by regular use of their breath Weapon. Ice Kobolds have +2t to Acrobatics due to their icy nature making them prone to slipping. Lightning Kobolds have ADHD struggle to sit down and focus, granting them +2t to Craft and Knowledge checks. Finally, Crystal Kobolds have +2t to Stealth as their shiny crystalline scales refract light and are prone to making noise.
-
-Breath Weapon: A Kobold may, as an Action, unleash a Breath Weapon as an Innate Attack[Health]. This attack by default has Dv2 Middling, Short Range, and Splash 15, and is modifier by each Element as Follows: Fire changes the Damage type to Fire and inflicts 2 stacks of Burning, Ice changes the damage type to Cold and inflicts 2 stacks of Frozen, Lightning changes the damage type to Electricity gains Seeking (1) and inflicts 2 stacks of Shocked, and Crystal changes the damage type to Piercing and inflicts 2 Stacks of Bleed.
-
-This functions as a Flare, using the Health stat for Cooldown, and puts their actual PA Flare on cooldown as well when used. 
 #Mahntral
 A Lion's Pride: Mahntrals are ferociously proud of their majestic manes and flaunt them at every opportunity, and to be fair? They are beautiful. They start at High Mortal in Charisma, can break into the Uncanny Tier, and may use Charisma for Soak and Serenity checks.
 
@@ -199,24 +163,12 @@ Children of Ghaz: Orks are wired for combat and intense situations and as such t
 Barely Tickled: Orks generally are really hard to keep down, gaining Middling Everything Resistance and maintain the passive effects of their PA stat even after Flaring. They may Flare a second time while the original is on cooldown, which does remove the passive effect until the until the second cooldown has ended. Their frankly ridiculous endurance is generally referred to as “Echoes of Ghaz” or just “Echoes”. They are also immune to Vital and Lethal Strikes, but cannot wear mundane armor. 
 
 It Juzt Workz: Orks have the ability to purchase, but generally not upgrade, D-Rank Narrative abilities that are related to the act of combat and enjoyment of it. They can also get some abilities related to, ahem, Orkish Color Theory.
-#Piscine
-Natural-Born Hunters: Piscine are natural-born hunters and trackers, adapted well for hunting prey under and above water. As such all their sense are potent- they are immune to being Blinded, posessess natural Darkvision, and posses an acute sense of smell that grants -2t to attempts to track Scents and may be used to track the smell of fresh blood.
-
-Children Of The Deep: Piscine draw strength from the sea, retaining it as long as they're wet, but growing weaker when notably dehydrated. This manifests as a raising of three physical stats, of the user's choice at CC, to High Mortal. This inverts to a malus of Low Mortal when notably dehydrated. Additionally, they have Sharp Teeth that give them +1DV to Bites.
-
-Swimming In The Ocean, Causing A Commotion: Piscine have -3t to swim checks, ignore any penalties normally imposed by underwater environments when making attacks, and can breathe underwater.
 #Saurian
 Lizard Folk: They possess a set of natural protective scales with Middling Physical Resistance and 2 Prot. These scales only regenerate at Reset but if broken they still retain the same Durability. These same scales causes the Res of non-specialized armor they wear to lower by one Level as they itch and chafe.
 
 Hunt The Weak: Tapping into a primal, predatory aptitude for hunting the weak, Saurians have a passive +1DV to all attacks against Mooks and additionally subtract 1 from the Cooldown of their PA Flare when they defeat a Mook in combat, minimum 1 round. However, due to their nature as apex predators they are not used to being ambushed and or feeling fear. They suffer an additional +1t malus to all active defenses while blindsided, and a +2t malus tp Serenity versus effects involving fear.
 
 More Beast Than Man: Throwing caution to the wind, a Saurian unleashes their bestial fervor in a burst of energy. As a Free Action and until the end of combat, a Saurian may grow a set of Claws that raise the DV of their Unarmed strikes by 1 as well as converting it to Slashing Damage that is by default Middling but otherwise follows Unarmed Combat DL scaling, instantly regenerate the Prot of their scales, which from there recovers damage at a rate of 1 Prot per round. However, they lose the ability to actively use equipment that isn't directly provided by their Power until the end of Combat.
-#Skynosaurs
-Bird Moment: Skynosaurs must pass a DC 3 Tricky Serenity check, which may scale higher depending on the situation, to avoid desperately devouring fish they come across as well as possessing  a similar temptation towards shiny objects.  However, one can have them ignore the t-malus of 1 Injury Box for a number of rounds equal to their Tiers of Willpower by tempting them with fish or shiny Objects.
-
-Kickin’ Chickens: Skynosaurs possess powerful, rather dangerous legs, running fast and kicking hard. as such, they Ignore the t Malus caused by kicks and deal an instance of both Blunt and Slashing damage when kicking. Additionally, this sets their Agility to High Mortal and allows them to act as size Large for the purposes of Movement.
-
-Fluffy and A Bit Fragile: Skynosaurs have fragile bones, meaning Injuries inflicted by Blunt damage have an additional +1t, and bountiful plumage that grants them Middling Piercing Resistance. However, this also means non-custom armors they wear have their Res ratings lowered by one Level.
 #Squats
 Built like Bricks: Squats have High Mortal Strength & Health,Middling Everything Resistance, -4t to Soak checks, and +2t to Dodge checks that never goes away.
 
@@ -242,17 +194,6 @@ Unnatural Healing: Void Elves that have had an Injury Box filled may expend 5 po
 Frail Flesh: Void Elves have Minor Physical Vulnerability, and cannot benefit from Made of Iron against any form of physical damage. Their very being seems unstable, easily broken.
 
 Void Bolt: Void Elves are capable of hurling a blast of raw Void Energy at a target as a weapon of last resort. Doing so costs a Void Elf's entire maximum Mana Pool as an action, and allows them to make a t7, 5-dice-per-Mana attack with Short Range and DV 4 Middling Void damage. This attack cannot break the dice cap.
-#Squidhats
-
-Literally A Squid: Squidhats are size Tiny and cannot wear armor of any kind, on account of being... a cephalopod. Though, because of their lack of bones, they are capable of sliding through even the smallest gaps and have -3t to all Acrobatics checks. They have High Vermin Strength & Health due to their pathetic noodly limbs and bodies, however. Squidhats require immersion in water for several hours a day in order to survive, and are capable of breathing underwater, but do not otherwise gain benefits while submerged. 
-
-Floating Seafood: Squidhats possess formidable mental abilities, especially compared to a mundane squid! This manifests in several ways. The first is that Squidhats possess a Focus stat, with which they control much of their psychic might. A Squidhat’s first Focus ability is to use Int or Willpower as if it were Agility for purposes of moving themselves, also granting three dimensional movement, or for Strength in order to lift and manipulate items with telekinetic force, though the user has +2t to wield or use any objects held in this way. Only one of these two abilities may be active at once, and switching between them is a Free Action. Squidhats naturally possess Psychic Awareness.
-
-Mentacles: In addition to their telekinetic abilities, Squidhats are capable of natural telepathy upon targets they make physical contact with using their tentacles. This means that Unarmed Attacks made by a Squidhat deal an additional DV 2 Middling Cognitive Damage upon contact, even if the attack itself cannot harm a target. Additionally, should the Squidhat successfully grapple a target, they can force an opposed Serenity check as an action, upon success gaining control of a target for a number of rounds equal to the successes they beat the target by. Each time a target rolls to resist a Squidhat, said Squidhat gains a stacking +1t to all Serenity checks until they spend a Full Round Action resting their tentacles & mind. 
-
-Brain Barrier: In situations of great need, Squidhats may convert their Levels of a Focus attached stat into Prot at a rate of 1 Level of [Focused Attached Stat] to 4 Prot, as a Reaction. Levels spent this way require four rounds per Level expended to regenerate. 
-
-Arrogant Cuttlefish: Squidhats are incapable of the right mindset for Awakening in most circumstances, but every 30 SP they spend will unlock a further branch of their mental abilities. Additionally, Squidhats possess +2t to all Social checks against non-Squidhats due to a racial tendency towards... eccentricity.
 #True Incarnates
 
 Elemental Form: While they may look humanoid, True Incarnates are generally composed at least partially of their element, or at least display properties of it. This ability grants passive or active effects to the True Incarnate's flesh and body. 
