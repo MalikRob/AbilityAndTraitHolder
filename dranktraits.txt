@@ -32,7 +32,7 @@ I'm Pulling Myself Together: The user can, as an Action, roll Serenity[Health/Wi
 Size Up: The user has this Basic Ability and +1 Tier in a skill of their choice (Expert Cap). D-Rank
 Collective Unconscious: The user has this Basic Ability and +1 Level in Charisma or Willpower (Uncanny Cap). D-Rank
 Uncanny Control: The user has this Basic Ability and +1 Level in Health (Uncanny Cap). D-Rank
-Claws: The user can grow claws as an Action which changes their unarmed DT to Slashing, DV to 2, and they gain one Level of Strength or Agility (Uncanny Cap). D-Rank
+Claws: The user can grow claws as an Action, which changes their unarmed DT to Slashing, and they gain +1 Level of Strength or Agility (Uncanny Cap) while this partial transformation is active. D-Rank
 Fangs: The user can grow a set of fangs as an Action that changes the unarmed DT with their mouth to Piercing, DV to 2, and can automatically grapple targets upon a hit. Attacks made with their mouth operate at +2t though. The DL of this partial transformation scales with the highest of Health or Strength. They also gain one Level of Strength or Health. (Uncanny Cap) D-Rank
 Tail: As an Action, the user can grow a tail with Reach (5), and DV 2 Blunt. This limb can be used for the simple manipulation of objects that don’t require fingers. They also gain one Level of Strength or Agility (Uncanny Cap). D-Rank
 Tentacles: As an Action, the user may shift one of their limbs into a tentacle with the following statistics for unarmed combat. Base DV 2, Blunt/Crushing on grappled targets, and -2t to offensive grapple checks. They also gain one Level of Strength or Agility (Uncanny Cap). D-Rank
