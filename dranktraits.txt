@@ -98,3 +98,4 @@ Blinding Aura: +1 Levels of Lux/+1 Levels of Perception (Uncanny Cap). As an Act
 Martially Blessed: All weapons the user wields act as if they have the High Quality mod. D-Rank
 Toxic Touch: +1 Level of Blight/+1 Level of Health. As a Reaction, once per Action that initiates skin contact with a target, the user may inflict DV 1 Middling Toxic damage that ignores standard durability. D-Rank
 Flash Step: As a Reaction, once per round, the user may blur to a spot they can see within Short range. The spot cannot be physically blocked off as this is just incredibly fast movement. D-Rank
+Psion: The user is a Psion, gaining +2 Levels of Psy Rating and 1 Lie. This trait can only be taken one additional time at the cost of increasing its effective rank cost. D-Rank
