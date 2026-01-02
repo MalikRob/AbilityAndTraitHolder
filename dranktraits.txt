@@ -100,3 +100,5 @@ Toxic Touch: +1 Level of Blight/+1 Level of Health. As a Reaction, once per Acti
 Flash Step: As a Reaction, once per round, the user may blur to a spot they can see within Short range. The spot cannot be physically blocked off as this is just incredibly fast movement. D-Rank
 Psion: The user is a Psion, gaining +2 Levels of Psy Rating and 1 Lie. This trait can only be taken one additional time at the cost of increasing its effective rank cost. D-Rank
 Ahead of The Curve: The user may create a Legacy/Supernatural skill based on their current skills, starting at Novice.
+Jumper: By adding +2t to their Jump check, the user does not need to roll the exact distance needed to land on a target. They simply choose any reachable target within the range the check determined. D-Rank
+Mark I Modification: +1 Level of Intellect. The user is a Spark and has modified two pieces of equipment. Granting +1 Tier of Physical or Energy durability to their armor and any weapon they have now has “/[Any Basic Energy DT]” added to it. D-Rank
