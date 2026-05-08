@@ -9,18 +9,18 @@ Heavy: The user gains +1 Level in Mass. Every Tier above Light the stat is, or w
 Lethal Aptitude: Choose a combat skill the user is at least a Novice in and increase it by two tiers. D-Rank
 Well Learned: Choose a utility skill the user is at least a Novice in and increase it by two tiers. D-Rank
 Generational Talent: Choose a single skill to increase the cap from Expert to Master. D-Rank
-Elemental Mage: The user is an Elementalism Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Elementalism Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Force Mage: The user is a Force Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Force Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Clairvoyance Mage: The user is a Clairvoyance Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Clairvoyance Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Necromancy Mage: The user is a Necromancy Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Necromancy Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Transmutation Mage: The user is a Transmutation Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Transmutation Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Biomancy Mage: The user is a Biomancy Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Biomancy Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Dimensional Mage: The user is a Dimensionalism Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Dimensionalism Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Psychic Mage: The user is a Psychic Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Psychic Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Conjuration Mage: The user is a Conjuration Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Conjuration Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Holy Mage: The user is a Holy Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Holy Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Dark Mage: The user is a Dark Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Dark Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
-Nature Mage: The user is a Nature Mage. They gain +2 Levels of Mana and +1 Level of Intellect, Nature Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Elemental Mage: The user is an Elementalism Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Elementalism Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Force Mage: The user is a Force Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Force Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Clairvoyance Mage: The user is a Clairvoyance Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Clairvoyance Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Necromancy Mage: The user is a Necromancy Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Necromancy Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Transmutation Mage: The user is a Transmutation Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Transmutation Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Biomancy Mage: The user is a Biomancy Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Biomancy Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Dimensional Mage: The user is a Dimensionalism Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Dimensionalism Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Psychic Mage: The user is a Psychic Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Psychic Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Conjuration Mage: The user is a Conjuration Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Conjuration Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Holy Mage: The user is a Holy Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Holy Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Dark Mage: The user is a Dark Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Dark Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
+Nature Mage: The user is a Nature Mage. They gain Low Initiate or +1 Level of Mana and +1 Level of Intellect, Nature Magic at a rank below their highest tier skill, and 1 Modifier. D-Rank
 Born Unlucky: The t of everyone else in this combat is increased by two, and the user’s t is increased by one due to their long experience managing their bad luck field. D-Rank
 Narrative Senses: The user has this basic ability and a conditional +2 Levels in a single stat of their choice that is only active in specific situations. D-Rank
 Balanced: The user has this Basic Ability and their Primary Stats are the ones considered “power boosted”. D-Rank
